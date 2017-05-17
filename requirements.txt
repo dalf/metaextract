@@ -1,0 +1,15 @@
+appdirs==1.4.3
+BeautifulSoup==3.2.1
+beautifulsoup4==4.6.0
+extruct==0.2.0
+falcon==1.2.0
+gevent==1.2.1
+greenlet==0.4.12
+lxml==3.7.3
+opengraph==0.5
+packaging==16.8
+pkg-resources==0.0.0
+pyparsing==2.2.0
+python-mimeparse==1.6.0
+requests==2.14.2
+six==1.10.0
